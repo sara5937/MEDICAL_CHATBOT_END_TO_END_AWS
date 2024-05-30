@@ -153,6 +153,10 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+Data/
+Experiments/
+logs/MEDI_BOT/logs
+Model/
 
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
